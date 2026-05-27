@@ -1,3 +1,6 @@
 # Lab8-Starter
+[https://paulm130.github.io/Lab8_Starter/](https://paulm130.github.io/Lab8_Starter/)
 ## Service Workers and Graceful Degradation
 Service workers and graceful degradation are related because service workers are used when the internet connection is terrible or does not work. At first the website is designed to not have to use the service workers because the user might have a good network connection. But if the network is bad the user must switch to using service workers until the network becomes good again because they cannot fetch data. This gives the user some website functionality even if the network is terrible or not working at all.
+## PWA Screenshot
+![pwa screenshot](pwa.png)
